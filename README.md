@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solvedprogram-that-explores-the-seating-patterns-related-to-course-performance
+<br>
+Write a program that explores the seating patterns related to course performance by using an array of student scores. The program should do the following:o Draw a seating chart of the classroom.o Show where people sit and use color coding on the seats to indicate the student’s current level of performance. The color-coding scheme should be as follows:
+
+Red—For students who are below the class meanYellow—For students who are at or above the mean but below 90 percentGreen—For students who are in the top 10 percentThe program should use the following:A two-dimensional array of student scores instead of a one-dimensional array.The two-dimensional array of scores having the same number of rows and columns as the arrangement of seats in the classroom.Save the program as Seating.cpp
